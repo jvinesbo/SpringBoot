@@ -25,7 +25,7 @@ Fichero con la configuración de la máquina virtual. Este fichero contiene todo
 * SmartGit (__Applications > Development > SmartGit__)
 * Java JDK 8
 * Eclipse Neon (__/opt/eclipse__)
-* DBeaver (__Applications > Development > DBeaver CE)
+* DBeaver (__Applications > Development > DBeaver CE__)
 * Tomcat (__/opt/tomcat__)
 * Maven
 * Node (__sudo apt-get install nodejs && sudo apt-get install npm__)
