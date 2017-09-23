@@ -27,3 +27,4 @@ La primera ejecución del fichero es larga ya que tiene que descarga todo el sof
 * Bower
 * Jenkins
 * Angular Cli
+* Firefox
