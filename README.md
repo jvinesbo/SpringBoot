@@ -32,6 +32,4 @@ Fichero con la configuración de la máquina virtual. Este fichero contiene todo
 1. Descargar el fichero __Vagrantfile__ y alojarlo en el directorio que de desee.
 2. Abrir un terminal y colocarnos en el directorio donde se ha colocado el fichero __Vagrantfile__
 3. Ejecutar el comando __vagrant up --provision__ (La primera ejecución del fichero es larga ya que tiene que descargar todo el software e instalarlo.)
-4. Una vez a terminado la ejecución del comando vagrant se abre una máquina virtual virtualbox.
-..* __Usuario:__ vagrant
-..* __Contraseña:__ vagrant
+4. Una vez a terminado la ejecución del comando vagrant se abre una máquina virtual virtualbox. (__Usuario:__ vagrant, __Contraseña:__ vagrant)
